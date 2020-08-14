@@ -16,7 +16,7 @@ Plugin for creating and displaying a simple banner.
 
 This plugin adds the ability to show a banner at the top of your page. You must style the banner yourself.
 
-It generates markup like this, which you can style as desired:
+It generates markup like this:
 
     <section class="easy-banner">
       <div class="easy-banner-wrapper">
